@@ -12,24 +12,49 @@ html{
 }
 
 #title-div{
-	background-color: #303436;
-	padding: 5px;
+	background-color: black;
+	padding: 10px;
+
+	
+}
+
+#white-box{
+	background-color: white !important;
+
 	
 }
 
 #title{
 	color: white;
+	background-color: black;
 	font-size: 50px;
 	font-family: Helvetica, sans-serif;
 	text-align: center;
+	width: 20%;
+	display: block;
+	margin: auto;
+	padding-top: 25px;
+
 	
 }
 
 #sub-title{
 	color: white;
+	background-color: black;
 	font-family: Helvetica, sans-serif;
 	text-align: center;
+	width: 20%;
+	display: block;
+	margin: auto;
+	padding: 0 0 25px 0; 
 }
+
+#title-miata-img{
+	display: block;
+	margin: auto;
+	
+}
+
 
 
 #img-div{
@@ -61,16 +86,22 @@ html{
 	
 }
 
-#list{
+.list{
 	color: white;
 	font-family: Helvetica, sans-serif;
-	margin-left: 25%;
-	margin-right: 25%;
+	margin-left: 29%;
+	margin-right: 30%;
 	
 }
 
+.list li{
+	padding: 5px 0px;
+}
+
+
+
 #quote{
-	border-radius: 3px;
+	border-radius: 10px;
     position: relative;
     font-style: italic;
     text-align: center;
@@ -80,6 +111,90 @@ html{
     margin: 1rem auto 2rem;
     background: #24282a;
 	
+}
+
+#bob-hall-profile{
+	border-radius: 50%;
+	padding-top: 20px;
+	display: block;
+	margin: auto;
+
+}
+
+#miata-ff-caption{
+	color: white;
+	font-size: small;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	padding-bottom: 50px;
+
+	
+}
+
+#miata-mr-caption{
+	color: white;
+	font-size: small;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	padding-bottom: 50px;
+	
+}
+
+#miata-fr-caption{
+	color: white;
+	font-size: small;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	padding-bottom: 50px;
+	
+}
+
+#miata-topless-caption{
+	color: white;
+	font-size: small;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	
+}
+
+#miata-chicago{
+	padding-top: 10px;
+	
+}
+
+
+#miata-chicago-caption{
+	color: white;
+	font-size: small;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	
+}
+
+#million-miata{
+	padding: 20 0 40 0;
+	display: block;
+	margin: auto;
+}
+
+
+#quote2{
+	border-radius: 10px;
+    position: relative;
+    font-style: italic;
+    text-align: center;
+    padding: 1rem 1.2rem;
+    width: 80%;  
+    color: white;
+    margin: 1rem auto 2rem;
+    background: #24282a;
+}
+
+#jc{
+	border-radius: 50%;
+	padding-top: 20px;
+	display: block;
+	margin: auto;
 }
 
 
@@ -92,6 +207,13 @@ html{
 }	
 
 #tribute-link{
+	color: white;
 	font-family: Helvetica, sans-serif;
 	
 }
+
+#tribute-link:hover{
+	color: aqua;
+	
+}
+
