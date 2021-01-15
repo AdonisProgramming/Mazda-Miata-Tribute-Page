@@ -15,13 +15,13 @@ html{
 	background-color: black;
 	padding: 10px;
 
-	
+
 }
 
 #white-box{
 	background-color: white !important;
 
-	
+
 }
 
 #title{
@@ -35,7 +35,7 @@ html{
 	margin: auto;
 	padding-top: 25px;
 
-	
+
 }
 
 #sub-title{
@@ -46,13 +46,13 @@ html{
 	width: 20%;
 	display: block;
 	margin: auto;
-	padding: 0 0 25px 0; 
+	padding: 0 0 25px 0;
 }
 
 #title-miata-img{
 	display: block;
 	margin: auto;
-	
+
 }
 
 
@@ -61,14 +61,14 @@ html{
 	background-color: #4d5356;
 	padding-top: 40px;
 	padding-bottom: 10px;
-	
+
 }
 
 #image{
 	display: block;
-  	margin: auto;
+  margin: auto;
 	border-radius: 15px;
-	
+
 }
 
 #img-caption{
@@ -76,14 +76,14 @@ html{
 	font-size: small;
 	text-align: center;
 	font-family: Helvetica, sans-serif;
-	
+
 }
 
 #tribute-info{
 	display: flex;
 	justify-content: center;
 	background-color: #4d5356;
-	
+
 }
 
 .list{
@@ -91,7 +91,7 @@ html{
 	font-family: Helvetica, sans-serif;
 	margin-left: 29%;
 	margin-right: 30%;
-	
+
 }
 
 .list li{
@@ -106,11 +106,11 @@ html{
     font-style: italic;
     text-align: center;
     padding: 1rem 1.2rem;
-    width: 80%;  
+    width: 80%;
     color: white;
     margin: 1rem auto 2rem;
     background: #24282a;
-	
+
 }
 
 #bob-hall-profile{
@@ -128,7 +128,7 @@ html{
 	font-family: Helvetica, sans-serif;
 	padding-bottom: 50px;
 
-	
+
 }
 
 #miata-mr-caption{
@@ -137,7 +137,7 @@ html{
 	text-align: center;
 	font-family: Helvetica, sans-serif;
 	padding-bottom: 50px;
-	
+
 }
 
 #miata-fr-caption{
@@ -146,7 +146,7 @@ html{
 	text-align: center;
 	font-family: Helvetica, sans-serif;
 	padding-bottom: 50px;
-	
+
 }
 
 #miata-topless-caption{
@@ -154,12 +154,12 @@ html{
 	font-size: small;
 	text-align: center;
 	font-family: Helvetica, sans-serif;
-	
+
 }
 
 #miata-chicago{
 	padding-top: 10px;
-	
+
 }
 
 
@@ -168,7 +168,7 @@ html{
 	font-size: small;
 	text-align: center;
 	font-family: Helvetica, sans-serif;
-	
+
 }
 
 #million-miata{
@@ -184,7 +184,7 @@ html{
     font-style: italic;
     text-align: center;
     padding: 1rem 1.2rem;
-    width: 80%;  
+    width: 80%;
     color: white;
     margin: 1rem auto 2rem;
     background: #24282a;
@@ -203,17 +203,16 @@ html{
 	justify-content: center;
 	background-color: #303436;
 	padding: 20px;
-	
-}	
+
+}
 
 #tribute-link{
 	color: white;
 	font-family: Helvetica, sans-serif;
-	
+
 }
 
 #tribute-link:hover{
 	color: aqua;
-	
-}
 
+}
